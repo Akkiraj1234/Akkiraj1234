@@ -1,0 +1,23 @@
+{
+    "database" : 
+    {
+        "design" : 
+        [
+            {
+		"ilearn":"datbase: desigin",
+                "name":"Database Design Course - Learn how to design and plan a database for beginners",
+                "link":"https://www.youtube.com/watch?v=ztHopE5Wnpc",
+                "author":"Free code camp",
+                "finised":false
+            },
+            {
+		"ilearn":"python: Rich, typer",
+		"name":"Create a Task Tracker App for the Terminal with Python (Rich, Typer, Sqlite3)",
+		"link":"https://www.youtube.com/watch?v=ynd67UwG_cI",
+		"autho":"Patrick Loeber",
+		"finised":false
+	    }
+        ]
+    }
+}
+
