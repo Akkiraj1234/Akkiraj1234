@@ -23,9 +23,9 @@ I'm a passionate self-taught programmer and tech enthusiast, with a love for cod
 [![instagram](images/icon/instagram.png)](https://instagram.com/akki_raj_._)
 [![X](images/icon/twitter.png)](https://x.com/Akhand_raj_)
 [![linkedin](images/icon/linkedin.png)](https://www.linkedin.com/in/akkhandrajpythondev/)
-[![mail](images/icon/mail.png)](https://instagram.com/akki_raj_._)
 [![Roadmap.sh](images/icon/roadmap.png)](https://roadmap.sh/u/akhandraj)
 [![LeetCode.sh](images/icon/leetcode.png)](https://leetcode.com/u/akhand_raj)
+[![mail](images/icon/mail.png)](https://instagram.com/akki_raj_._)
 
 ## info about me
 
