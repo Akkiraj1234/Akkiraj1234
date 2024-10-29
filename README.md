@@ -30,8 +30,7 @@ I'm a passionate self-taught programmer and tech enthusiast, with a love for cod
 ## info about me
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akkiraj1234&show_icons=true&locale=en&theme=tokyonight)
-[![roadmap.sh](https://roadmap.sh/card/tall/66cf26a286ab8b2c1757778c?variant=dark)](https://roadmap.sh/u/akhandraj)
-
+<a href="https://roadmap.sh/u/akhandraj"><img src="https://roadmap.sh/card/wide/66cf26a286ab8b2c1757778c?variant=dark" alt="roadmap.sh"/></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akkiraj1234&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/akhand_raj?theme=dark)](https://leetcode.com/u/akhand_raj)
 
