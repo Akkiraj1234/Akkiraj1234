@@ -8,9 +8,9 @@ Software developer focused on backend engineering, software architecture, and bu
 
 > I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by building real software, experimenting with different approaches, and exploring the trade-offs behind technical decisions.
 
-<table align="center">
-  <tr>
-    <td align="left" width="700">
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" width="700" style="border: none;">
       <ul>
         <li>🔭 Currently building <a href="https://github.com/Akkiraj1234/shipyard">Shipyard</a>, an open-source project lifecycle companion.</li>
         <li>🛠️ I enjoy solving real-world problems and building practical tools that can be useful to other developers.</li>
