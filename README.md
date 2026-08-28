@@ -1,41 +1,24 @@
-<div align="center" style="
-    background: #0d0d0d;
-    padding: 15px;
-    font-family: 'Orbitron', sans-serif;
-    color: #fff;
-">
-
 <img src="images/a527c6ba82174cfc93e031a1c2297c09.jpg" alt="Masterhead" style="width: 100%; height: auto; border-radius: 15px;" />
 
-<h2 style="margin-top: 20px;"> hey i am akhand raj ^^</h2>
+<h2 style="margin-top: 20px;" align="center"> hey i am akhand raj ^^</h2>
 
-<h3>Software Developer • Backend Engineering • Software Architecture</h3>
+<h3 align="center">Software Developer • Backend Engineering • Software Architecture</h3>
 
-<p style="text-align: left; padding: 0 20px;">
 Software developer focused on backend engineering, software architecture, and building modular systems. I enjoy understanding how systems work, solving architectural problems, and turning complex ideas into clean, maintainable software.
-</p>
 
-<p style="text-align: left; padding: 0 20px;">
 I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by building real software, experimenting with different approaches, and exploring the trade-offs behind technical decisions.
-</p>
-  
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="700">
-        <ul>
-          <li>🔭 Currently building <a href="https://github.com/Akkiraj1234/shipyard">Shipyard</a>, an open-source project lifecycle companion.</li>
-          <li>🛠️ I enjoy solving real-world problems and building practical tools that can be useful to other developers.</li>
-          <li>🌐 Learn more about my work and projects at <a href="https://akhand.dev">akhand.dev</a>.</li>
-          <li>📫 Reach me at <a href="mailto:akhandraj402@gmail.com">akhandraj402@gmail.com</a>.</li>
-          <li>🎨 Outside of software, I'm into sketching and archery.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<h3>🔗 Find me here</h3>
+<div align="center" style="padding: 0 20px 20px 20px;">
+    <div align="left" style="max-width: 700px;">
+        <ul>
+            <li>🔭 Currently building <a href="https://github.com/Akkiraj1234/shipyard">Shipyard</a>, an open-source project lifecycle companion.</li>
+            <li>🛠️ I enjoy solving real-world problems and building practical tools that can be useful to other developers.</li>
+            <li>🌐 Learn more about my work and projects at <a href="https://akhand.dev">akhand.dev</a>.</li>
+            <li>📫 Reach me at <a href="mailto:akhandraj402@gmail.com">akhandraj402@gmail.com</a>.</li>
+            <li>🎨 Outside of software, I'm into sketching and archery.</li>
+        </ul>
+    </div>
+</div>
 
 <p align="center" style="padding: 0 20px 20px 20px;">
   <a href="https://www.linkedin.com/in/akhandrajdev/">
@@ -55,39 +38,26 @@ I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by 
   </a>
 </p>
 
-<!-- Stats & Info -->
-<h3>My Activities</h3>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akkiraj1234&theme=github_dark" />
+<p align="center" style="padding: 5px 0;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akkiraj1234&theme=github_dark" width="550" alt="GitHub activity"/>
 </p>
 
-<p align="center">
+<p align="center" style="padding: 5px 0;">
     <a href="https://leetcode.com/u/akhand_raj">
-    <img src="https://leetcard.jacoblin.cool/akhand_raj?theme=dark&font=Karma&border=0" alt="LeetCode stats"></a>
+        <img src="https://leetcard.jacoblin.cool/akhand_raj?theme=dark&font=Karma&border=0" width="550" alt="LeetCode activity"/>
+    </a>
 </p>
 
-<p align="center">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6725d55831d65c235d2b8113?variant=dark" alt="roadmap" style="max-width: 100%; border-radius: 15px;"></a>
+<p align="center" style="padding: 5px 0;">
+    <a href="https://roadmap.sh/u/akhandraj">
+        <img src="https://roadmap.sh/card/wide/6725d55831d65c235d2b8113?variant=dark" width="550" alt="roadmap.sh activity"/>
+    </a>
 </p>
 
-<h3>🔮 Future Projects</h3>
+### 🔮 Future Projects
 
-<ol style="text-align: left; padding: 0 20px;">
-    <li>
-        <strong>Simple JSON Diff</strong>: A lightweight JSON diff and synchronization
-        system that tracks changes through versioned references instead of duplicating
-        full state history, enabling memory-efficient incremental updates over polling
-        and SSE.
-    </li>
-    <li>
-        <strong>LeetCode Solver</strong>: A personal problem-solving and review
-        system inspired by spaced repetition. It helps decide what LeetCode
-        problems to solve each day based on previously solved problems, topics,
-        difficulty, and review history.
-    </li>
-</ol>
+1. **Simple JSON Diff**: A lightweight JSON diff and synchronization   system that tracks changes through versioned references instead of duplicating full state history, enabling memory-efficient incremental updates over polling and SSE.
+
+2. **LeetCode Solver**: A personal problem-solving and review system inspired by spaced repetition. It helps decide what LeetCode problems to solve each day based on previously solved problems, topics, difficulty, and review history.
   
 <img src="images/274b41ea9f730396bfd8f0eb19edfa86.gif" alt="Masterhead" style="width: 100%; height: auto; border-radius: 15px; margin-top: 20px;">
-
-</div>
