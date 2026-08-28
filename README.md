@@ -6,19 +6,14 @@
 
 Software developer focused on backend engineering, software architecture, and building modular systems. I enjoy understanding how systems work, solving architectural problems, and turning complex ideas into clean, maintainable software.
 
-I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by building real software, experimenting with different approaches, and exploring the trade-offs behind technical decisions.
+> I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by building real software, experimenting with different approaches, and exploring the trade-offs behind technical decisions.
 
-<table align="center">
-  <tr>
-    <td align="left">
-      🔭 Currently building <a href="https://github.com/Akkiraj1234/shipyard">Shipyard</a>, an open-source project lifecycle companion.<br>
-      🛠️ I enjoy solving real-world problems and building practical tools that can be useful to other developers.<br>
-      🌐 Learn more about my work and projects at <a href="https://akhand.dev">akhand.dev</a>.<br>
-      📫 Reach me at <a href="mailto:akhandraj402@gmail.com">akhandraj402@gmail.com</a>.<br>
-      🎨 Outside of software, I'm into sketching and archery.
-    </td>
-  </tr>
-</table>
+- 🔭 Currently building <a href="https://github.com/Akkiraj1234/shipyard">Shipyard</a>, an open-source project lifecycle companion.<br>
+- 🛠️ I enjoy solving real-world problems and building practical tools that can be useful to other developers.<br>
+- 🌐 Learn more about my work and projects at <a href="https://akhand.dev">akhand.dev</a>.<br>
+- 📫 Reach me at <a href="mailto:akhandraj402@gmail.com">akhandraj402@gmail.com</a>.<br>
+- 🎨 Outside of software, I'm into sketching and archery.
+
 
 <p align="center" style="padding: 0 20px 20px 20px;">
   <a href="https://www.linkedin.com/in/akhandrajdev/">
