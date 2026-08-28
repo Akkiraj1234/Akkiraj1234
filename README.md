@@ -8,8 +8,8 @@ Software developer focused on backend engineering, software architecture, and bu
 
 I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by building real software, experimenting with different approaches, and exploring the trade-offs behind technical decisions.
 
-<div align="center" style="padding: 0 20px 20px 20px;">
-    <div align="left" style="max-width: 700px;">
+<div align="center">
+    <div style="width: 700px; max-width: 100%; margin: 0 auto; text-align: left;">
         <ul>
             <li>🔭 Currently building <a href="https://github.com/Akkiraj1234/shipyard">Shipyard</a>, an open-source project lifecycle companion.</li>
             <li>🛠️ I enjoy solving real-world problems and building practical tools that can be useful to other developers.</li>
@@ -60,4 +60,6 @@ I primarily work with Python, C, C++, JavaScript, and SQL. I learn primarily by 
 
 2. **LeetCode Solver**: A personal problem-solving and review system inspired by spaced repetition. It helps decide what LeetCode problems to solve each day based on previously solved problems, topics, difficulty, and review history.
   
-<img src="images/274b41ea9f730396bfd8f0eb19edfa86.gif" alt="Masterhead" style="width: 100%; height: auto; border-radius: 15px; margin-top: 20px;">
+<p align="center">
+  <img src="images/274b41ea9f730396bfd8f0eb19edfa86.gif" width="100%" alt="Footer"/>
+</p>
